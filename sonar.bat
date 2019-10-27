@@ -1,0 +1,1 @@
+mvn sonar:sonar -Dsonar.projectKey=firestarter -Dsonar.host.url=http://localhost:9000 -Dsonar.login=cc6a836e89ca14d100c19a7a248bb66c363aa815
